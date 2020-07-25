@@ -4,6 +4,19 @@ This is an application that helps users to plan and track their budget. Users ca
 
 [Click here](https://demiwu96.github.io/Budget-your-budget/) to see the app
 
+## Getting Started
+
+### Installing
+
+In the root folder, run the following command to install the required npm package
+
+```
+npm install
+```
+## Running the tests
+
+Go to localhost:3000 on the browser to test the application
+
 ## Built with
 * HTML
 * Materialize
