@@ -2,7 +2,7 @@
 
 This is an application that helps users to plan and track their budget. Users can put their income and categories of things and percentages they spend, and the percentage of income they want to save each month. The app will take the inflation rate from your area into account and project your saving after 5 to 30 years.
 
-[Click here](https://demiwu96.github.io/Budget-your-budget/) to see the app
+[Click here](https://demiwu96.github.io/Budget_your_budget/) to see the app
 
 ## Getting Started
 
